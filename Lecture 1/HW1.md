@@ -8,7 +8,7 @@
 
 ## 3 Write an algorithm for finding a number from a file which has sorted numbers. (Assume you have functions to read the file line by line and one number is written per line)
 
-## 4 Write a function that takes name of the person running the program and prints "Hey there <Name> !" [Hint: Try looking up input()= and see what it does]
+## 4 Write a function that takes name of the person running the program and prints "Hey there <Name> !" [Hint: Try str = input("Whats your name ? ") ]
 
 ## 5 Write a function which prints cubes of all values from 1 to 20
 
@@ -28,4 +28,4 @@ n = input("Please a select a number between 1 and 5")
 
 ## 1. Write a program to convert temperature that user enters in Celius to Farenhite (No i dont expect you to know the formulae from the top of your head, F = 9/5 C + 32)
 
-## 2. Write a program for a calculator which can perform addition, subtraction, multiplication, divition and exponential. Take the numbers and the operatation to be performed from the user.
+## 2. Write a program for a calculator which can perform addition, subtraction, multiplication, divition and exponential. Take the numbers and the operatation to be performed from the user. 
