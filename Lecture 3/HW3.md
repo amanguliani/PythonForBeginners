@@ -31,6 +31,4 @@ create the code word from it. Output should be aaacccceekooooo
 
 2. Write a function which takes a dollar amount and breaks it down into how many quaters (25 cents), dimes (10 cents), nickels (5 cents) and pennies (1 cent) would it contain.
 
-3. Given a sentence containing n words. Remove all duplicates words keeping the order of the rest of the words the same. 
-
-4. Write code to roll two dice. Print Win if the value of the two dice is the same, otherwise keep rolling the dice. 
+3. Write code to roll two dice. Print Win if the value of the two dice is the same, otherwise keep rolling the dice. 
