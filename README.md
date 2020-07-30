@@ -10,7 +10,7 @@ This is class material for python for beginners. It covers only the basic syntax
 * Control Statement, Loops
 * Numbers Type and Computing
 
-#### [Slides](Lecture 1/Lecture 1.pdf) and [HW](Lecture 1/HW1.md)
+#### [Slides](Lecture%201/Lecture%201.pdf) and [HW](Lecture%201/HW1.md)
 
 ## Lecture 2  
 ### Topics Covered
