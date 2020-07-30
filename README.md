@@ -18,7 +18,7 @@ This is class material for python for beginners. It covers only the basic syntax
 * Boolean
 * Strings
 
-#### [Slides](Lecture 2/Lecture 2.pdf), [HW](Lecture 2/HW2.md) and [Scratchbook](Lecture 2/Lecture 2.ipynb)
+#### [Slides](Lecture%202/Lecture%202.pdf), [HW](Lecture%202/HW2.md) and [Scratchbook](Lecture%202/Lecture%202.ipynb)
 
 ## Lecture 3
 ### Topics Covered
@@ -28,25 +28,25 @@ This is class material for python for beginners. It covers only the basic syntax
 * Operators
 * Loops
 
-#### [Slides](Lecture 3/Lecture 3.pdf), [HW](Lecture 3/HW3.md) and [Scratchbook](Lecture 3/Lecture 3.ipynb)
+#### [Slides](Lecture%203/Lecture%203.pdf), [HW](Lecture%203/HW3.md) and [Scratchbook](Lecture%203/Lecture%203.ipynb)
 
 ## Lecture 4
 ### Topics Covered
 * Functions
 * Class Exercise
 
-#### [Slides](Lecture 4/Lecture 4.pdf), [HW](Lecture 4/HW4.md), [HW Solution](Lecture 4/Solutions-Homework 4.ipynb) and [Scratchbook](Lecture 4/Lecture 4.ipynb)
+#### [Slides](Lecture%204/Lecture%204.pdf), [HW](Lecture%204/HW4.md), [HW Solution](Lecture%204/Solutions-Homework%204.ipynb) and [Scratchbook](Lecture%204/Lecture%204.ipynb)
 
 ## Lecture 5
 ### Topics Covered
 * Last HW Discussion
 * Project Introduction
 
-#### [Slides](Lecture 5/Lecture 5.pdf)
+#### [Slides](Lecture%205/Lecture%205.pdf)
 
 # Projects
 ## Simple Scrabble 
-* [Description](Lecture 5/Scrabble.md)
+* [Description](Lecture%205/Scrabble.md)
 * [Solution](https://repl.it/@AmandeepGuliani/AmanScrabble#main.py)
 
 # Reference Materials
